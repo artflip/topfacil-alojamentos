@@ -13,7 +13,7 @@ Este projeto está configurado para deploy automático no GitHub Pages.
 ### Passos para Deploy
 
 1. **Crie um repositório no GitHub**
-   - Nome: `topfácil-alojamentos`
+   - Nome: `topfacil-alojamentos`
    - Público ou privado
 
 2. **Faça upload do código**
@@ -22,7 +22,7 @@ Este projeto está configurado para deploy automático no GitHub Pages.
    git add .
    git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/SEU_USUARIO/topfácil-alojamentos.git
+   git remote add origin https://github.com/SEU_USUARIO/topfacil-alojamentos.git
    git push -u origin main
    ```
 
@@ -34,7 +34,7 @@ Este projeto está configurado para deploy automático no GitHub Pages.
 
 4. **O deploy acontecerá automaticamente**
    - A cada push na branch `main`
-   - O site ficará disponível em: `https://SEU_USUARIO.github.io/topfácil-alojamentos/`
+   - O site ficará disponível em: `https://SEU_USUARIO.github.io/topfacil-alojamentos/`
 
 ## 🛠️ Desenvolvimento Local
 
