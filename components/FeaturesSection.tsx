@@ -33,6 +33,9 @@ const FeaturesSection: React.FC = () => {
           <p className="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
             Investimos em recursos próprios para garantir autonomia, segurança e o melhor serviço para nossos parceiros.
           </p>
+          <p className="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
+            Toda sua equipe em um só lugar, facilitando gestão e controle. <a href="#contact" className="text-blue-600 hover:text-blue-800 underline font-semibold">(verificar disponibilidade)</a>
+          </p>
         </div>
 
         <div className="mt-16">

@@ -35,7 +35,7 @@ const AccommodationSection: React.FC = () => {
           <AccommodationCard
             icon={<BuildingIcon className="w-6 h-6" />}
             title="Estrutura Modular"
-            description="Dois blocos independentes com quartos que oferecem organização e privacidade. Capacidade inicial para 56 trabalhadores."
+            description="Dois blocos independentes com quartos que oferecem organização e privacidade. Capacidade inicial para Seus Trabalhadores."
             imageUrl="https://picsum.photos/400/300?random=2"
             iconBgClass="bg-blue-100"
             iconTextClass="text-blue-600"
